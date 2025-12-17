@@ -13,5 +13,10 @@ allprojects {
     repositories {
         google()
         mavenCentral()
+
+        // ✅ LSPosed / Xposed API repo
+        maven {
+            url "https://api.xposed.info/"
+        }
     }
 }
