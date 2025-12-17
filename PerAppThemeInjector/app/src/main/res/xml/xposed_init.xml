@@ -1,0 +1,4 @@
+
+<resources>
+    <string name="xposed_init">com.dev.themeinjector.MainHook</string>
+</resources>
