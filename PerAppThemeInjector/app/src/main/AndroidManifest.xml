@@ -1,7 +1,0 @@
-
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.dev.themeinjector">
-    <application
-        android:label="Per-App Theme Injector"
-        android:allowBackup="false"/>
-</manifest>
